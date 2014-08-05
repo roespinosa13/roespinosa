@@ -2,7 +2,7 @@
 
 title:            RoEspinosa.net
 locale:           en_US
-url:              http://mmistakes.github.io/minimal-mistakes
+url:              http://http://roespinosa13.github.io/roespinosa13
 
 
 # Jekyll configuration
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Roberto Espinosa
   avatar: bio-photo.jpg
   bio: "Information Technologies & Business for Human Development. Ex-Azteca #UDLAP, Construyendo este blog."
   email: ro13espinosa@gmail.com
