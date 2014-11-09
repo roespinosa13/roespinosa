@@ -15,7 +15,7 @@ Compré un dominio .net y adopté un espacio huérfano en Internet para converti
 Fiel y energético participante de un gran proyecto -en construcción- llamado México. Deambulando en el limbo de los idealistas confío en la posibilidad de cambiar el rumbo poco prometedor de este país, de esta gran joya del orbe. Educación, Información y Conocimiento serán los puentes para lograrlo. 
 
 <blockquote>
-  <p>«Podemos más de lo que sabemos.» -  Francis Bacon</p>
+  <p>«Podemos más de lo que sabemos»  Francis Bacon</p>
 </blockquote>
 
 
