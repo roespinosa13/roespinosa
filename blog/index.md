@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Posts
+title: Posts anteriores
 excerpt: "A List of Posts"
 date: 
 modified:
