@@ -6,6 +6,7 @@ date:
 modified:
 tags: []
 image:
-  feature:
+  feature: re13_text3.jpg
+  credit: Andy Gilmore
 ---
 
