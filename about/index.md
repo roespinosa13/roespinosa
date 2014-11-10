@@ -3,9 +3,8 @@ layout: page
 title: Acerca de mi
 modified: 2014-07-31T15:01:46.840000-04:00
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: re13_text1.jpg
+
 ---
 
 <p>Nacido en México D.F., desde hace 25 años afiliado al mundo progresista. Estudiante-Atleta egresado de la UDLAP, aunque las aulas fueron excelentes el mejor aprendizaje lo obtuve en la duela de basquetbol, los libros y los amigos.</p><br>
