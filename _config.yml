@@ -29,9 +29,9 @@ owner:
   name: Roberto Espinosa
   avatar: bio-re13.png
   bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
-  email: ro13espinosa@gmail.com
+  email: <a href="mailto:ro13espinosa@gmail.com">Gmail/a> 
   disqus-shortname: 
-  twitter: ro13espinosa
+  twitter: @ro13espinosa
   facebook: 
   google:
     plus: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: 
   stackoverflow:
-  linkedin:
+  linkedin: Click <a href="https://www.linkedin.com/pub/roberto-espinosa/a2/a2/273">here</a> LinkedIn.
   instagram: 
   lastfm:
   tumblr:
