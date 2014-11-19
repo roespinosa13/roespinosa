@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            RoEspinosa.net
+title:            ROESPINOSA.net -The Blog-
 locale:           en_US
 url:              http://roespinosa.net
 
@@ -31,7 +31,7 @@ owner:
   bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
   email: <a href="mailto:ro13espinosa@gmail.com">Gmail/a> 
   disqus-shortname: 
-  twitter: @ro13espinosa
+  twitter: ro13eespinosa
   facebook: 
   google:
     plus: 
