@@ -17,9 +17,9 @@ image:
 <blockquote>
   <p>«Podemos más de lo que sabemos»<br>Francis Bacon</p>
 </blockquote>
-<hr/>
+<br><hr/>
 
-<h1>About me</h1><br>
+<h1>About me</h1>
 
 <p>Born in Mexico City, affiliated to the world of progress for the last 25 years. Student-Athlete graduated at <a href="http://www.udlap.mx/">UDLAP</a>, even the classrooms were excellent most of the best learning I acquired it was on a basketball court, some books and all my friends.</p><br>
 
