@@ -17,7 +17,8 @@ image:
 <blockquote>
   <p>«Podemos más de lo que sabemos»<br>Francis Bacon</p>
 </blockquote>
-<br><hr/>
+<br>
+<hr/>
 
 <h1>About me</h1>
 
