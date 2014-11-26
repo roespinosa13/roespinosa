@@ -10,9 +10,9 @@ image:
 date: 2014-11-26T01:13:33-06:00
 ---
 
-<blockquote><p>«La vida humana representa, la mayor parte de las veces, una ecuación entre el pasado y el futuro»<br>
+<p>«La vida humana representa, la mayor parte de las veces, una ecuación entre el pasado y el futuro»<br>
 José Ingenieros.<br> 
-</blockquote><br> 
+<br> 
 
 <p>Una serie de presiones nos agobian muchas veces sin darnos cuenta, dirigen nuestra toma de decisiones, nuestras actitudes y más importante nuestros actos a corto y largo plazo. Es el medio que nos rodea el que nos encierra y nos moldea. En las fascinantes sociedades actuales los jóvenes tenemos miles y miles de posibilidades de desarrollarnos dentro de un mundo globalizado y de un ritmo altamente cambiante. Sin embargo, pareciera que a veces se toman las decisiones que no son las más brillantes y con esto se altera el rumbo total, y de cierta forma se traicionan los sueños e ideales que se tenían en principio.</p>
 
