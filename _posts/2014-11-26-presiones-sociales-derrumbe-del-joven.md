@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presiones Sociales, derrumbe del joven"
+title: "Presiones Sociales ¿Qué tanto nos afectan?"
 modified:
 categories: 
 excerpt:
@@ -42,7 +42,7 @@ date: 2014-11-26T01:13:33-06:00
 <p>Las comodidades materiales son lindas, pero nada supera la satisfacción que causa al espíritu el cumplimiento y el amor por la Obra. Sabemos que encontrar el camino adecuado no es tarea fácil, pero una vez que te sientes pleno y motivado en él, sabes que estas en el correcto y claro que con el tiempo se presentaran algunas variantes a considerar. Se ha comprobado que invertir en uno mismo y en otros es causa de felicidad; regalos y salidas ocasionales, organizar las mejores fiestas, viajes, todo aquello que deje un buen sentimiento tiene más valor que el auto del año que el día de mañana te pueden chocar o robar en nuestro lindo México. Lo único que permanece a futuro son las buenas y no tan buenas memorias, desafortunadamente (?).</p>
 
 <h3>Éxito ajeno, frustración personal</h3>
-<p>Hoy en día, especialmente en Internet y otros medios de comunicación estamos bombardeados de la palabra <b>ÉXITO</b> –si, en mayúsculas-. Historias de gente exitosa por doquier, cursos, esquemas piramidales y social networking, seminarios, pseudo-religiones, best-sellers, hasta comida y bebidas milagrosas, todo te promete salir de ese abismo en el que te hacen pensar que vives sin remedio alguno.</p>
+<p>Hoy en día, especialmente en Internet y otros medios de comunicación estamos bombardeados de la palabra <b>ÉXITO</b> –si, en mayúsculas-. Historias de gente exitosa por doquier, cursos, esquemas piramidales y social network, seminarios, pseudo-religiones, best-sellers, hasta comida y bebidas milagrosas, todo te promete salir de ese abismo en el que te hacen pensar que vives sin remedio alguno.</p>
 
 <p>Y en gran parte por esto, en el fondo, me atrevo a decir que todos hemos sentido alguna vez por mínima que fuera esa mezcla de sentimientos que nos orillan a envidiar y sentirnos frustrados por el éxito de otros. ¿Ejemplos? Cuando un deportista es excepcional vienen frases como “Es de raza negra, chino, o ruso, seguro no tuvo infancia pobrecito”, “Antidoping, seguro usa cosas ilegales, no parece natural”, o peor las noticias extra-deportivas causan alegría solo basta con ver comentarios hacía personajes como Cristiano Ronaldo, LeBron James, Carlos Vela, <i>haters gonna hate</i>.</p>
 
@@ -60,9 +60,11 @@ Alfred de Vigny.</p>
 <p>Existen infinitas formas de realizarse e incontables experiencias por vivir, cientos de miles de cosas por ver, hablar, escuchar, aprender, reflexionar, compartir. Permitir que otros afecten nuestras decisiones es el absurdo total. Actuar por encajar es el mayor de los delitos a la identidad. Doblarse ante las leyes no escritas del medio que nos rodea es el equivalente a ser un muerto en vida, un <i>zombie</i>, un autómata, un vil imitador.</p>
 
 <p>Si la juventud es -como dicen- <i>la primavera que nunca va a regresar</i>, mejor hacerla única. Cuando llegue la asfixia, cuando llegue la ansiedad de tomar decisiones recordemos con sincera gracia la siguiente infografía y tomemos un buen respiro ya que nunca nada está perdido.</p>
-Ro,<br>
+
 
 <figure>
 <img src="/images/lost_in_life.jpeg">
 </figure>
 <br>
+
+<p>Ro,</p>
