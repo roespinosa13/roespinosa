@@ -58,9 +58,9 @@ Alfred de Vigny.</p>
 
 <p>Existen infinitas formas de realizarse e incontables experiencias por vivir, cientos de miles de cosas por ver, hablar, escuchar, aprender, reflexionar, compartir. Permitir que otros afecten nuestras decisiones es el absurdo total. Actuar por encajar es el mayor de los delitos a la identidad. Doblarse ante las leyes no escritas del medio que nos rodea es el equivalente a ser un muerto en vida, un zombie, un autómata, un vil imitador.</p>
 
-<p>Si la juventud es -como dicen- la primavera que nunca va a regresar, mejor hacerla única. Cuando llegue la asfixia, cuando llegue la ansiedad de tomar decisiones recordemos con sincera gracia la siguiente infografía y tomemos un buen respiro. Nunca nada está perdido.<p><br>
+<p>Si la juventud es -como dicen- la primavera que nunca va a regresar, mejor hacerla única. Cuando llegue la asfixia, cuando llegue la ansiedad de tomar decisiones recordemos con sincera gracia la siguiente infografía y tomemos un buen respiro. Nunca nada está perdido.</p><br>
 
-Saludos!
+<p>Saludos!</p>
 Ro,
 
 <figure>
