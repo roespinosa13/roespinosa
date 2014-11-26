@@ -59,5 +59,5 @@ Alfred de Vigny.</p>
 
 <p>Si la juventud es -como dicen- la primavera que nunca va a regresar, mejor hacerla única. Cuando llegue la asfixia, cuando llegue la ansiedad de tomar decisiones recordemos con sincera gracia la siguiente infografía y tomemos un buen respiro. Nunca nada está perdido.<p><br>
 
-<img src="https://github.com/roespinosa13/roespinosa13/blob/gh-pages/images/lost_in_life.jpeg">
+<img src="/images/lost_in_life.jpeg">
 
