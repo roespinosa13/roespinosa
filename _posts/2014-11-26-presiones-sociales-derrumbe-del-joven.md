@@ -34,14 +34,15 @@ date: 2014-11-26T01:13:33-06:00
 <p>El método científico –prueba y error- es necesario, lo malo es cuando uno cede ante el medio y los miedos que le rodean, ya sea porque todas tus amigas se están comprometiendo, casando y empiezan a tener hijos o porque hay que superar al o la ex porque éste ya tiene alguien más. Entonces el error se prolonga, algunos se dan cuenta tempranamente, otros un poco tarde y otros simplemente se resignan. Peor es nada, aseguran. Mucho se ha hablado siempre del miedo que tenemos a la cruda soledad como seres humanos, y no es para avergonzarnos pero tal vez el conocerse uno mismo primero da la oportunidad de entregar un mejor individuo a la otra persona, cuandoquiera que ésta llegue. En mi opinión ésta es la más cruel de todas las presiones y una de las más comunes de ceder por desgracia.</p>
 
 <h3>El perfecto plan del joven mexicano, y tal vez de otros países</h3>
+
 <p>Hace tiempo leí un buen artículo –ojala lo hubiera guardado en algo más confiable que mi memoria-. En él se describía al joven mexicano promedio y su plan de vida de la siguiente manera: “El objetivo es salir de la universidad, encontrar un buen empleo, comprar un carrito, pagar el enganche de la casa, juntarse con alguien, hacer familia, asegurar el trabajo y darle duro, jubilarse y entonces sí, a relajarse y disfrutar la vida”. Tan alarmante como cierto ¿No lo creen?<p>
 
-<p>Otro de los errores más comunes es saber elegir ese “buen empleo”. El dinero puede ser un arma de doble filo especialmente para un recién egresado que comienza a percibir este poder que le brinda autonomía y estatus. Por supuesto que todos queremos ganar la mayor cantidad posible, pero por 5 mil, 15 mil, XX mil pesos extra al mes a veces se deja de lado un trabajo más adecuado a nuestras aspiraciones por la cuestión monetaria. Probablemente te hartes de esos trabajos que no te llenan al punto de volverte un mediocre por la falta de interés en el mismo, pero bueno para ese tiempo ya tendremos un carrito y una casita. ¡Ah sí! Y a seguir trabajando porque el poder adquisitivo genera impuestos y esos se pagan o Hacienda te quita hasta la dignidad.</p>
+<p>Otro de los errores más comunes es saber elegir ese “buen empleo”. El dinero puede ser un arma de doble filo especialmente para un recién egresado que comienza a percibir este poder que le brinda autonomía y estatus. Por supuesto que todos queremos ganar la mayor cantidad posible, pero por 5 mil, 15 mil, XX mil pesos extra al mes a veces se deja de lado un trabajo más adecuado a nuestras aspiraciones por la cuestión monetaria. Probablemente te hartes de esos trabajos que no te llenan al punto de volverte un <b>mediocre</b> por la falta de interés en el mismo, pero bueno para ese tiempo ya tendremos un carrito y una casita. ¡Ah sí! Y a seguir trabajando porque el poder adquisitivo genera impuestos y esos se pagan o Hacienda te quita hasta la dignidad.</p>
 
 <p>Las comodidades materiales son lindas, pero nada supera la satisfacción que causa al espíritu el cumplimiento y el amor por la Obra. Sabemos que encontrar el camino adecuado no es tarea fácil, pero una vez que te sientes pleno y motivado en él, sabes que estas en el correcto y claro que con el tiempo se presentaran algunas variantes a considerar. Se ha comprobado que invertir en uno mismo y en otros es causa de felicidad; regalos y salidas ocasionales, organizar las mejores fiestas, viajes, todo aquello que deje un buen sentimiento tiene más valor que el auto del año que el día de mañana te pueden chocar o robar en nuestro lindo México. Lo único que permanece a futuro son las buenas y no tan buenas memorias, desafortunadamente (?).</p>
 
 <h3>Éxito ajeno, frustración personal</h3>
-<p>Hoy en día, especialmente en Internet y otros medios de comunicación estamos bombardeados de la palabra ÉXITO –si, en mayúsculas-. Historias de gente exitosa por doquier, cursos, esquemas piramidales y social networking, seminarios, pseudo-religiones, best-sellers, hasta comida y bebidas milagrosas, todo te promete salir de ese abismo en el que te hacen pensar que vives sin remedio alguno.</p>
+<p>Hoy en día, especialmente en Internet y otros medios de comunicación estamos bombardeados de la palabra <b>ÉXITO</b> –si, en mayúsculas-. Historias de gente exitosa por doquier, cursos, esquemas piramidales y social networking, seminarios, pseudo-religiones, best-sellers, hasta comida y bebidas milagrosas, todo te promete salir de ese abismo en el que te hacen pensar que vives sin remedio alguno.</p>
 
 <p>Y en gran parte por esto, en el fondo, me atrevo a decir que todos hemos sentido alguna vez por mínima que fuera esa mezcla de sentimientos que nos orillan a envidiar y sentirnos frustrados por el éxito de otros. ¿Ejemplos? Cuando un deportista es excepcional vienen frases como “Es de raza negra, chino, o ruso, seguro no tuvo infancia pobrecito”, “Antidoping, seguro usa cosas ilegales, no parece natural”, o peor las noticias extra-deportivas causan alegría solo basta con ver comentarios hacía personajes como Cristiano Ronaldo, LeBron James, Carlos Vela, haters gonna hate.</p>
 
@@ -56,13 +57,14 @@ date: 2014-11-26T01:13:33-06:00
 Alfred de Vigny.</p>
 </blockquote>
 
-<p>Existen infinitas formas de realizarse e incontables experiencias por vivir, cientos de miles de cosas por ver, hablar, escuchar, aprender, reflexionar, compartir. Permitir que otros afecten nuestras decisiones es el absurdo total. Actuar por encajar es el mayor de los delitos a la identidad. Doblarse ante las leyes no escritas del medio que nos rodea es el equivalente a ser un muerto en vida, un zombie, un autómata, un vil imitador.</p>
+<p>Existen infinitas formas de realizarse e incontables experiencias por vivir, cientos de miles de cosas por ver, hablar, escuchar, aprender, reflexionar, compartir. Permitir que otros afecten nuestras decisiones es el absurdo total. Actuar por encajar es el mayor de los delitos a la identidad. Doblarse ante las leyes no escritas del medio que nos rodea es el equivalente a ser un muerto en vida, un <i>zombie</i>, un autómata, un vil imitador.</p>
 
 <p>Si la juventud es -como dicen- la primavera que nunca va a regresar, mejor hacerla única. Cuando llegue la asfixia, cuando llegue la ansiedad de tomar decisiones recordemos con sincera gracia la siguiente infografía y tomemos un buen respiro. Nunca nada está perdido.</p><br>
 
-<p>Saludos!</p>
+Saludos!<br>
 Ro,
 
 <figure>
 <img src="/images/lost_in_life.jpeg">
 </figure>
+<br>
