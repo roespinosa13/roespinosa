@@ -49,7 +49,7 @@ date: 2014-11-26T01:13:33-06:00
 
 <h4>Tomémoslo con calma</h4>
 
-<p>¡Presión por aquí y por allá! Ante todo esto, solo queda tomárselo con temple de héroe. Se tiene la creencia que la Naturaleza es sabia y nosotros al ser parte de ella debemos tener aunque sea un poquito de eso ¿Cierto? Éxito, dinero, amor, prosperidad, lo que sea que se desee, todo está listo para ser tomado en el momento adecuado. En el buen actuar vienen las recompensas y las respuestas a cada una de estas problemáticas, nuestra complejidad nos nubla la vista para detectar el gusto por lo simple, lo que hace feliz.</p><br>
+<p>¡Presión por aquí y por allá! Ante todo esto, solo queda tomárselo con temple de héroe. Se tiene la creencia que la Naturaleza es sabia y nosotros al ser parte de ella debemos tener aunque sea un poquito de eso ¿Cierto? Éxito, dinero, amor, prosperidad, lo que sea que se desee, todo está listo para ser tomado en el momento adecuado. En el buen actuar vienen las recompensas y las respuestas a cada una de estas problemáticas, nuestra complejidad nos nubla la vista para detectar el gusto por lo simple, lo que hace feliz.</p>
 
 <blockquote>
 <p>“Una gran vida es un ideal de la juventud realizado en la edad madura”<br>
@@ -62,6 +62,5 @@ Alfred de Vigny.</p>
 
 Ro,
 
-<figure>
-	<img src="https://github.com/roespinosa13/roespinosa13/blob/gh-pages/images/lost_in_life.jpeg"/>
-</figure>
+<img src="https://github.com/roespinosa13/roespinosa13/blob/gh-pages/images/lost_in_life.jpeg"/>
+
