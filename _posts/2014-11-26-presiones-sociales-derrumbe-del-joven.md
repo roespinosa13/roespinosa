@@ -9,10 +9,9 @@ image:
   feature: blue_circle13.jpg
 date: 2014-11-26T01:13:33-06:00
 ---
-
-<p>«La vida humana representa, la mayor parte de las veces, una ecuación entre el pasado y el futuro»<br>
-José Ingenieros.<br> 
-<br> 
+<blockquote>
+<p>«La vida humana representa, la mayor parte de las veces, una ecuación entre el pasado y el futuro»<br>José Ingenieros.</p>
+</blockquote>
 
 <p>Una serie de presiones nos agobian muchas veces sin darnos cuenta, dirigen nuestra toma de decisiones, nuestras actitudes y más importante nuestros actos a corto y largo plazo. Es el medio que nos rodea el que nos encierra y nos moldea. En las fascinantes sociedades actuales los jóvenes tenemos miles y miles de posibilidades de desarrollarnos dentro de un mundo globalizado y de un ritmo altamente cambiante. Sin embargo, pareciera que a veces se toman las decisiones que no son las más brillantes y con esto se altera el rumbo total, y de cierta forma se traicionan los sueños e ideales que se tenían en principio.</p>
 
@@ -55,8 +54,10 @@ José Ingenieros.<br>
 
 <p>¡Presión por aquí y por allá! Ante todo esto, solo queda tomárselo con temple de héroe. Se tiene la creencia que la Naturaleza es sabia y nosotros al ser parte de ella debemos tener aunque sea un poquito de eso ¿Cierto? Éxito, dinero, amor, prosperidad, lo que sea que se desee, todo está listo para ser tomado en el momento adecuado. En el buen actuar vienen las recompensas y las respuestas a cada una de estas problemáticas, nuestra complejidad nos nubla la vista para detectar el gusto por lo simple, lo que hace feliz.</p>
 
-<blockquote><p>“Una gran vida es un ideal de la juventud realizado en la edad madura”<p><br>
-Alfred de Vigny</blockquote>
+<blockquote>
+<p>“Una gran vida es un ideal de la juventud realizado en la edad madura”<br>
+Alfred de Vigny</p>
+</blockquote>
 
 <p>Existen infinitas formas de realizarse e incontables experiencias por vivir, cientos de miles de cosas por ver, hablar, escuchar, aprender, reflexionar, compartir. Permitir que otros afecten nuestras decisiones es el absurdo total. Actuar por encajar es el mayor de los delitos a la identidad. Doblarse ante las leyes no escritas del medio que nos rodea es el equivalente a ser un muerto en vida, un zombie, un autómata, un vil imitador.</p>
 
