@@ -15,7 +15,7 @@ date: 2014-11-26T01:13:33-06:00
 
 <p>Una serie de presiones nos agobian muchas veces sin darnos cuenta, dirigen nuestra toma de decisiones, nuestras actitudes y más importante nuestros actos a corto y largo plazo. Es el medio que nos rodea el que nos encierra y nos moldea. En las fascinantes sociedades actuales los jóvenes tenemos miles y miles de posibilidades de desarrollarnos dentro de un mundo globalizado y de un ritmo altamente cambiante. Sin embargo, pareciera que a veces se toman las decisiones que no son las más brillantes y con esto se altera el rumbo total, y de cierta forma se traicionan los sueños e ideales que se tenían en principio.</p>
 
-<p>En este post les comparto una serie de reglas sociales no escritas, comportamientos en masa que ejercen presión de vez en vez nosotros los jovenes. Las comparto brevemente ya que les he encontrado interesantes de analizar y tomar en consideración ¡Comencemos!</p>
+<p>En este post les comparto una serie de reglas sociales no escritas, comportamientos en masa que ejercen presión de vez en vez en nosotros los jovenes. Las comparto brevemente ya que les he encontrado interesantes de analizar y tomar en consideración ¡Comencemos!</p>
 
 <h3>El Sacrosanto Título Universitario</h3>
 <p>¿Cuándo es que piensas terminar esa carrera? ¿Y entonces, vas a entrar a la universidad o qué vas a hacer? ¡Ya decídete! Dos preguntas que seguramente muchos de los que están leyendo esto han escuchado, y por supuesto me incluyo en su debido tiempo. Es una de las grandes presiones en el adolescente de la sociedad moderna, y es que erróneamente se cree que el título universitario es garantía de una vida plena como la que tuvieron generaciones en décadas pasadas.</p>
