@@ -4,6 +4,7 @@ title: "Presiones Sociales, derrumbe del joven"
 modified:
 categories: 
 excerpt:
+comments: true
 tags: []
 image:
   feature: blue_circle13.jpg
