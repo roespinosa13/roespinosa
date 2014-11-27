@@ -68,3 +68,5 @@ Alfred de Vigny.</p>
 <br>
 
 <p>Ro,</p><br>
+
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='12896925'></div>
