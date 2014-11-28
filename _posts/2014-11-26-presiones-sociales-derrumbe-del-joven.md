@@ -5,6 +5,7 @@ modified:
 categories: 
 excerpt:
 comments: true
+share: true
 tags: []
 image:
   feature: blue_circle13.jpg
