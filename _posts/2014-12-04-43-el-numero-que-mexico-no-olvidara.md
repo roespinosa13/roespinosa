@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "43, El Numero Que Mexico No Olvidara"
+title: "43, El Número Que México No Olvidará"
 modified:
 categories: 
 excerpt:
@@ -10,3 +10,4 @@ image:
 date: 2014-12-04T02:43:46-06:00
 ---
 
+El número
