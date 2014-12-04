@@ -78,7 +78,7 @@ date: 2014-12-04T02:43:46-06:00
 </blockquote>
 
 
-<p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p><br>
 
 
 <p><i>English version for this post very soon! </p></i>
