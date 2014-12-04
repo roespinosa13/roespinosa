@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presiones Sociáles, derrumbe del joven"
+title: "Presiones Sociales, derrumbe del joven"
 modified:
 categories: 
 excerpt:
