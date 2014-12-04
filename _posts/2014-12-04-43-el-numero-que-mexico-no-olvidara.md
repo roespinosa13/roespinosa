@@ -78,8 +78,8 @@ date: 2014-12-04T02:43:46-06:00
 </blockquote>
 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p>
 
 
-<p><i>English version soon! </p></i>
+<p><i>English version for this post very soon! </p></i>
 
