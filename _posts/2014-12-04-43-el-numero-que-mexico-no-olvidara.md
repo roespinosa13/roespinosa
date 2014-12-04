@@ -43,7 +43,7 @@ date: 2014-12-04T02:43:46-06:00
 
 <p>Los indiferentes, los intolerantes, los que han perdido todo tacto y toda pisca de sensibilidad. Les da miedo la reflexión ya que pueden ver derrumbadas sus frágiles imágenes, se sienten vulnerables con cualquier cambio en la rutina, sus modelos mentales se sienten agredidos con el pensamiento diferente, se sienten invadidos por aquellos que busquen cambiar las cosas para bien. Atados a los prejuicios, esperando sentados, prefieren ser agua embotellada antes de unirse al río del progreso.</p>
 
-<p>Su máxima es y será siempre la misma: <i>“dejen de reclamar, pónganse a trabajar y a estudiar, el cambio está en uno mismo”</i>. Claro, no hay ninguna duda de eso, solo que hay un detalle que parecieran olvidar; las oportunidades no están al alcance de todos en este país, son para una privilegiada minoría. El afortunado debería velar por el desamparado, retribución. Egoístas en su máximo nivel de expresión ¿Qué hay de incorrecto en sentirse herido por el atropello al prójimo?</p>
+<p>Su máxima es y será siempre la misma: <i>“dejen de reclamar, pónganse a trabajar y a estudiar, el cambio está en uno mismo”</i>. Claro, no hay ninguna duda de eso, solo que hay un detalle que parecieran olvidar; las oportunidades no están al alcance de todos en este país, son para una privilegiada minoría. El afortunado debería velar por el desamparado, hermosa retribución. Egoístas en su máximo nivel de expresión ¿Qué hay de incorrecto en sentirse herido por el atropello al prójimo?</p>
 
 <h3>Luz y sombras, eternos contrastes al descubierto</h3>
 
