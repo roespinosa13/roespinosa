@@ -11,7 +11,7 @@ image:
 date: 2014-12-04T02:43:46-06:00
 ---
 <blockquote>
-<p>«Transformar en alegría el dolor, convertir todo el horror en pura vida <br>Es tarea que nos toca cada día y haremos de las tripas corazón.»<br>Bersuit Vergarabat.</p>
+<p>«Transformar en alegría el dolor, convertir todo el horror en pura vida <br>...es tarea que nos toca cada día y haremos de las tripas corazón.»<br>Bersuit Vergarabat.</p>
 </blockquote>
 
 <p>Ya sea en el mundo de la numerología o de las matemáticas puras, nuestros amigos los números han jugado un papel significativo a través de la historia de la civilización humana. Seguro has escuchado hablar del 3.1415 y su infinitos dígitos, la superstición entorno a la mala suerte del 13 (me opongo a dicha creencia), el 5 y su valor cosmológico, 4 de julio y 911 son icónicos en la cultura americana. En el deporte se identifica un 23 por Michael Jordan y se asocia el 10 a Pele y Maradona. 2000 marcó una generación y el 2012 causó expectación, en ambos años se iba a acabar el mundo –recordemos todos los fraudes financieros religiosos que hubo-. 60 segundos, 60 minutos, 24 horas, 7 días, 52 semanas, 365 días. Fechas, aniversarios, cantidades, los números son esos símbolos mágicos, son ese lenguaje omnipresente y necesario para todos. </p>
