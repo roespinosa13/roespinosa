@@ -71,15 +71,13 @@ date: 2014-12-04T02:43:46-06:00
 
 <p>Seamos ciudadanos ejemplares, recientemente circuló un artículo en Redes Sociales que dice que <a href="http://www.lahojadearena.com/quienes-dicen-que-el-cambio-esta-en-uno-mismo/" target="_blank"> ser un ciudadano ejemplar no es la solución total</a>. Probablemente no, pero es la de raíz, la más sana y la más fácil aunque no lo parezca. Actúa bien y otros seguirán, y a ellos otros los seguirán, es una sana infección con probabilidades exponenciales. Predicar con el ejemplo, o sigamos fomentando la corrupción, el compadrazgo, la apatía y entonces otros lo seguirán pues el pequeño imita al adulto. Hay que conocer la diferencia entre un buen ciudadano y un conformista servil. Eduquémonos los unos a los otros, plantemos los ideales en los cercanos, es una decisión a nivel personal que repercutirá sin lugar a dudas a nivel grupo.</p>
 
-<p>Antes de querer hacer respetar cualquier ley territorial deben ser respetados los derechos inalienables del hombre y lo cierto es que 43 jóvenes mexicanos, 43 seres humanos con expectativas y metas por lograr no han llegado aún a casa y ese número difícilmente será olvidado. Las vendas comienzan a caer en el México del siglo XXI y a nosotros nos toca seguir haciendo de las tripas corazón.</p>
+<p>Antes de querer hacer respetar cualquier ley territorial deben ser respetados los derechos inalienables del hombre y lo cierto es que 43 jóvenes mexicanos, 43 seres humanos con expectativas y metas por lograr no han llegado aún a casa y ese número difícilmente será olvidado. Las vendas comienzan a caer en el México del siglo XXI y a nosotros nos toca seguir haciendo de las tripas corazón.</p><br>
+
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p><br>
 
 <blockquote>
 <p>«La verdad, el amor es la última y más elevada meta a la que el hombre puede aspirar»<br>Man’s Search for Meaning – Viktor E.Frankl.</p>
 </blockquote>
-
-
-<p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p><br>
-
 
 <p><i>English version for this post very soon! </p></i>
 
