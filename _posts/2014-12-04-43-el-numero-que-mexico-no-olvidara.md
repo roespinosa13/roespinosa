@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "43, el Número que México no Olvidará"
-<h2>Una breve reflexion</h2>
+title: "43, el Número que México no Olvidará<h2>Una breve reflexion</h2>"
 modified:
 categories: 
 excerpt:
