@@ -5,8 +5,8 @@ modified:
 categories: 
 excerpt:
 tags: []
-image: post2.jpg
-  feature:
+image: 
+  feature: post2.jpg
 date: 2014-12-04T02:43:46-06:00
 ---
 
