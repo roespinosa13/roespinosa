@@ -77,9 +77,9 @@ date: 2014-12-04T02:43:46-06:00
 <p>«La verdad, el amor es la última y más elevada meta a la que el hombre puede aspirar»<br>Man’s Search for Meaning – Viktor E.Frankl.</p>
 </blockquote>
 
-<figure>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iCH-8PyzztQ" frameborder="0"> </iframe>
-</figure>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe>
+
 
 <p><i>English version soon! </p></i>
 
