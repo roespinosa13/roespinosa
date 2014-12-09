@@ -10,7 +10,7 @@ tags: []
 image: 
   feature: post2.jpg
   thumb: re13_text3.jpg
-date: 2014-12-04T02:43:46-06:00
+date: 2013-12-04T02:43:46-06:00
 ---
 <blockquote>
 <p>«Transformar en alegría el dolor, convertir todo el horror en pura vida <br>...es tarea que nos toca cada día y haremos de las tripas corazón.»<br>Bersuit Vergarabat.</p>
