@@ -2,7 +2,7 @@
 layout: post
 title: "Presiones Sociales, derrumbe del joven"
 modified:
-categories: 
+categories: IT
 excerpt: ¿Qué tanto nos afectan los dogmas sociales? El individuo puede renunciar a su idenditad e ideales bajo ciertas presiones del medio que le rodea. 
 comments: true
 share: true
