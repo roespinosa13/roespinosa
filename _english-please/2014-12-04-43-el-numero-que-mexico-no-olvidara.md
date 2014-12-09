@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: eng-post
 title: "43, el Número que México no Olvidará"
 modified:
 categories: 
