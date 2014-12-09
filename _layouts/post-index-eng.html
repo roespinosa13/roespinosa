@@ -36,21 +36,21 @@
   <h1>{{ page.title }} <h1>
   <h4>{{ page.excerpt }}</h4>
   {% for post in site.english-please %}  
-  {% unless post.next %}
-    <h3>{{ post.date | date: '%Y' }}</h3>
+  {% unless eng-post.next %}
+    <h3>{{ eng-post.date | date: '%Y' }}</h3>
     {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% capture year %}{{ eng-post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ eng-post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
+        <h3>{{ eng-post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
     <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+      {% if eng-post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ eng-post.url }}" title="{{ eng-post.title }}">{{ eng-post.title }}</a> <a href="{{ eng-post.link }}" target="_blank" title="{{ eng-post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <h2><a href="{{ site.url }}{{ eng-post.url }}" title="{{ eng-post.title }}">{{ eng-post.title }}</a></h2>
+        <p>{{ eng-post.excerpt | strip_html | truncate: 160 }}</p>
       {% endif %}
     </article>
   {% endfor %}
