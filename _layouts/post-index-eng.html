@@ -35,7 +35,7 @@
 <div id="index">
   <h1>{{ page.title }} <h1>
   <h4>{{ page.excerpt }}</h4>
-  {% for post in site.english-please %}  
+  {% for eng-post in site.english-please %}  
   {% unless eng-post.next %}
     <h3>{{ eng-post.date | date: '%Y' }}</h3>
     {% else %}
@@ -47,7 +47,7 @@
     {% endunless %}
     <article>
       {% if eng-post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ eng-post.url }}" title="{{ eng-post.title }}">{{ eng-post.title }}</a> <a href="{{ eng-post.link }}" target="_blank" title="{{ eng-post.title }}"><i class="fa fa-link"></i></h2>
+        <h2 class="link-eng-post"><a href="{{ site.url }}{{ eng-post.url }}" title="{{ eng-post.title }}">{{ eng-post.title }}</a> <a href="{{ eng-post.link }}" target="_blank" title="{{ eng-post.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
         <h2><a href="{{ site.url }}{{ eng-post.url }}" title="{{ eng-post.title }}">{{ eng-post.title }}</a></h2>
         <p>{{ eng-post.excerpt | strip_html | truncate: 160 }}</p>
