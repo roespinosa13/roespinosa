@@ -1,0 +1,17 @@
+---
+layout: eng-post
+title: "50, el Número que México no Olvidará"
+modified:
+categories: english-please
+comments: true
+share: true
+excerpt: Una breve reflexión del panorama que se está viviendo en México a raíz de la desaparición de 43 estudiantes en el Estado de Guerrero. 
+tags: []
+image: 
+  feature: post2.jpg
+  thumb: re13_text3.jpg
+date: 2014-12-04T02:43:46-06:00
+---
+<blockquote>
+<p>«Transformar en alegría el dolor, convertir todo el horror en pura vida <br>...es tarea que nos toca cada día y haremos de las tripas corazón.»<br>Bersuit Vergarabat.</p>
+</blockquote>
