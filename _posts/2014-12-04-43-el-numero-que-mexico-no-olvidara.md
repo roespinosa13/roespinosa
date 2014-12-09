@@ -8,6 +8,7 @@ excerpt: Una breve reflexión del panorama que se está viviendo en México a ra
 tags: []
 image: 
   feature: post2.jpg
+  thumb: re13_text3.jpg
 date: 2014-12-04T02:43:46-06:00
 ---
 <blockquote>
@@ -81,8 +82,4 @@ date: 2014-12-04T02:43:46-06:00
 
 <p><i>English version for this post coming soon! </p></i>
 
-
-<meta property="og:title" content="Titulo" />
-<meta property="og:type" content="http://roespinosa.net/43-el-numero-que-mexico-no-olvidara/" />
-<meta property="og:image" content="http://roespinosa.net/images/re13_text3.jpg" />
 
