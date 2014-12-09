@@ -82,18 +82,7 @@ date: 2014-12-04T02:43:46-06:00
 <p><i>English version for this post coming soon! </p></i>
 
 
-<meta property="og:title" content="Any title here" />
-<meta property="og:type" content="website" />
+<meta property="og:title" content="Titulo" />
+<meta property="og:type" content="http://roespinosa.net/43-el-numero-que-mexico-no-olvidara/" />
 <meta property="og:image" content="http://roespinosa.net/images/re13_text3.jpg" />
 
-<link rel="stylesheet" href="social-likes_flat.css">
-...
-<script src="jquery.min.js"></script>
-<script src="social-likes.min.js"></script>
-...
-<div class="social-likes" data-url="http://roespinosa.net/43-el-numero-que-mexico-no-olvidara/" data-title="43, el Número que México no Olvidará">
-	<div class="facebook" title="Share link on Facebook">Facebook</div>
-	<div class="twitter" title="Share link on Twitter">Twitter</div>
-	<div class="plusone" title="Share link on Google+">Google+</div>
-	<div class="pinterest" title="Share image on Pinterest" data-media="">Pinterest</div>
-</div>
