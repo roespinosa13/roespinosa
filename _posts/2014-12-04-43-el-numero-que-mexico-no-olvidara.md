@@ -81,3 +81,5 @@ date: 2014-12-04T02:43:46-06:00
 
 <p><i>English version for this post coming soon! </p></i>
 
+<meta property="og:image" content="http://roespinosa.net/images/re13_text3.jpg">
+<link rel="image_src" href="http://roespinosa.net/images/re13_text3.jpg">
