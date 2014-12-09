@@ -83,3 +83,15 @@ date: 2014-12-04T02:43:46-06:00
 
 <meta property="og:image" content="http://roespinosa.net/images/re13_text3.jpg">
 <link rel="image_src" href="http://roespinosa.net/images/re13_text3.jpg">
+
+<link rel="stylesheet" href="social-likes_flat.css">
+...
+<script src="jquery.min.js"></script>
+<script src="social-likes.min.js"></script>
+...
+<div class="social-likes">
+	<div class="facebook" title="Share link on Facebook">Facebook</div>
+	<div class="twitter" title="Share link on Twitter">Twitter</div>
+	<div class="plusone" title="Share link on Google+">Google+</div>
+	<div class="pinterest" title="Share image on Pinterest" data-media="">Pinterest</div>
+</div>
