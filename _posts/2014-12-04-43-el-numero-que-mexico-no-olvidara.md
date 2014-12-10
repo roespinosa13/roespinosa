@@ -2,7 +2,7 @@
 layout: post
 title: "43, el Número que México no Olvidará"
 modified:
-categories: en
+categories: es
 comments: true
 share: true
 excerpt: Una breve reflexión del panorama que se está viviendo en México a raíz de la desaparición de 43 estudiantes en el Estado de Guerrero. 
