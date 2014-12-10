@@ -89,4 +89,5 @@ Bersuit Vergarabat.</p>
 <p>«The truth — that love is the ultimate and the highest goal to which man can aspire»<br>Viktor E.Frankl - Man’s Search for Meaning</p>
 </blockquote>
 
+<div><a href="http://roespinosa.net/es/43-el-numero-que-mexico-no-olvidara/" class="btn">Original Post in Spanish</a></div>
 
