@@ -5,7 +5,7 @@ modified:
 categories: en
 share: true
 comments: true
-excerpt:
+excerpt: A brief reflection about what is happening in Mexico and the 43 students of Ayotzinapa. [English version]
 tags: []
 image:
   feature:
