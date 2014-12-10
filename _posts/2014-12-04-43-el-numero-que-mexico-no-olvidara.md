@@ -81,6 +81,6 @@ date: 2014-12-04T02:43:46-06:00
 <p>«La verdad, el amor es la última y más elevada meta a la que el hombre puede aspirar»<br>Viktor E.Frankl - Man’s Search for Meaning</p>
 </blockquote>
 
-<div><a href="http://roespinosa.net/en/43-the-number-mexico-will-never-forget/" class="btn btn-success">English version!</a></div>
+<div><a href="http://roespinosa.net/es/43-el-numero-que-mexico-no-olvidara/" class="btn">Original Post in Spanish</a></div>
 
 
