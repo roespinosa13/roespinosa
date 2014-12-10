@@ -1,7 +1,7 @@
 ---
 layout: post-index-eng
-title: All Posts
-excerpt: Some posts may be translated to English
+title: Posts in English
+excerpt: No Spanish? No problem, some posts may be translated so you can read it!
 image:
-  feature: blue_circle13.jpg
+  feature: texteng.jpg
 ---
