@@ -81,14 +81,24 @@ Bersuit Vergarabat.</p>
 
 <p>It's time we be exemplary citizens. This young generation of Mexicans need to learn to work well and set the example for others. Practice what you preach, every passing minute is the opportunity to turn it all around by taking a stand against corruption, cronyism, and the apathy that exists in out lovely country. Mexicans have the chance to educate others and plant their ideals to their neighbors, an individual decision that might affect positively into groups.</p>
 
-<p>Before wanting to enforce any territorial law must be respected the inalienable rights of man, and the truth is that <b>43 young Mexicans</b>, 43 human-beings with expectations and goals to achieve have not yet come home and that number is unlikely to be forgotten. The blindfold begin to fall in the XXI century Mexico and ours to keep doing the “heart guts”.</p><br>
+<p>Before wanting to enforce any territorial law must be respected the inalienable rights of man, and the truth is that <b>43 young Mexicans</b>, 43 human-beings with expectations and goals to achieve have not yet come home and that number is unlikely to be forgotten. The blindfold begin to fall in the XXI century Mexico and ours to keep doing the “heart guts”.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p><br>
 
 <p><iframe width="560" height="315" src="//www.youtube.com/embed/iCH-8PyzztQ" frameborder="0" allowfullscreen></iframe></p>
 
 <blockquote>
 <p>«The truth — that love is the ultimate and the highest goal to which man can aspire»<br>Viktor E.Frankl - Man’s Search for Meaning</p>
 </blockquote>
-<p><i>Special Thanks to my buddy Antonio Lopez or the translation details! (He's about to open a Blog of cats)</i></p>
 
 <div><a href="http://roespinosa.net/es/43-el-numero-que-mexico-no-olvidara/" class="btn">Original Post in Spanish</a></div>
+
+<p><i>Special Thanks to my buddy Antonio Lopez for the translation details! (He's close to open a Blog about cats)</i></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><i>Tripas corazón</i> - The literal translation is “heart guts” which is a Latin-American expression used in situations which demands to confront the biggest adversities.</p>
+    </li>
+  </ol>
+</div>
+
 
