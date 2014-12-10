@@ -14,7 +14,7 @@ date: 2014-12-10T02:21:22-06:00
 
 <blockquote>
 <p>«Transform pain into joy, convert all the horror in pure life<br>
-... It is a task that belong to us every day and make the heart guts»<br>
+... It is a task that belong to us every day and make the heart guts»<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup><br>
 Bersuit Vergarabat.</p>
 </blockquote>
 
