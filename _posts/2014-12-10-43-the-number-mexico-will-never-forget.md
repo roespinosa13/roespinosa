@@ -5,7 +5,7 @@ modified:
 categories: en
 share: true
 comments: true
-excerpt: A brief reflection about what is happening in Mexico and the 43 students of Ayotzinapa. [English version]
+excerpt: A brief reflection about what is happening in Mexico and the 43 students of Ayotzinapa, Guerrero. [English version]
 tags: []
 image:
   feature:
