@@ -3,7 +3,6 @@ layout: post
 title: "43, the Number Mexico Will Never Forget"
 modified:
 categories: en
-share: true
 comments: true
 excerpt: A brief reflection about what is happening in Mexico and the 43 students of Ayotzinapa, Guerrero. [English version]
 tags: []
