@@ -7,8 +7,8 @@ share: true
 comments: true
 excerpt: A brief reflection about what is happening in Mexico and the 43 students of Ayotzinapa, Guerrero. [English version]
 tags: []
-teaser: bio-re13.png
 image:
+  teaser: bio-re13.png
   feature:
 date: 2014-12-10T02:21:22-06:00
 ---
