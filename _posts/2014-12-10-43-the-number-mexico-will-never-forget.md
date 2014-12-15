@@ -10,6 +10,7 @@ tags: []
 image:
   teaser: bio-re13.png
   feature:
+  thumb: bio-re13.png
 date: 2014-12-10T02:21:22-06:00
 ---
 
