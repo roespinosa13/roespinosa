@@ -3,7 +3,7 @@ layout: post
 title: "Una Cibervida Antes De Facebook"
 modified:
 categories: es
-excerpt: ¿Recuerdas como era el Internet? ¿Cuáles eran tus Sitios Web y programas favoritos? Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fueron ciertas partes de nuestra vida en la Red de redes hace algunos años.
+excerpt: ¿Recuerdas como era el Internet? ¿Tus sitios web y programas favoritos? Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fue la Red de redes hace algunos años.
 comments: true
 share: true
 tags: []
