@@ -18,13 +18,13 @@ date: 2015-02-18T23:54:13-06:00
 </blockquote>
 
 <p>Recientemente en un centro comercial escuché el siguiente dialogo entre un padre y su hijo de aproximadamente 7-8 años, ambos con <i>smartphones</i> sentados en una banca. El dialogo fue el siguiente: </p>
-
+<br>
 <i>—Papá ¿Ya viste lo que te puse en Facebook? <br>
 —No, pero ya deja de llenar mi Face de tantas cosas. <br>
 —Pero es divertido, —Replicó el hijo— tienes que verlo. Oye… ¿Y ustedes cómo le hacían antes para vivir sin Facebook? <br>
 —Aunque no lo creas todo parecía más interesante y divertido. —Le dijo el papá con tono sereno—<br>
 —Mmmm no te creo eso. —El hijo vio al papá con incredulidad—.</i><br>
-
+<br>
 <p>Entonces me di cuenta que el padre intentaba convencer al hijo pero no sabía cómo encontrar las palabras adecuadas para demostrarle que aquella época con programas sumamente básicos marcó a toda una generación que experimentaba primitivas formas de interacción digital.</p>
 
 <p>De ahí comenzó una lluvia de recuerdos de hace algunos años. Es que hoy en día aplicaciones y sitios como Facebook, Twitter, Instagram, WhatsApp, Snapchat entre otros están más que incrustados en nuestra vida cotidiana y pareciera que siempre han estado ahí. Sin embargo, la obvia realidad es que no siempre fue así y aunque a muchos pequeños de tiempos modernos les parezca irreal hubo otra <i>cibervida</i> y fue muy buena. </p>
