@@ -33,12 +33,12 @@ date: 2015-02-18T23:54:13-06:00
 
 <p>Si fuiste de aquella época este post es para ti y seguro recordaras algunas de las siguientes cosas que marcaron nuestras noches frente al monitor. </p>
 
-<h3>Dial-up Modem: El sonido de la felicidad</h3>
+<h3>Dial-Up Modem: El sonido de la felicidad</h3>
 
 <p>56 kbit/s llegaron a ser la máxima potencia de aquellos días y cada intento de conexión se te cargaba como una llamada a tu recibo. Cómo olvidar ese sonido que significaba que la línea de teléfono iba a estar ocupada por un buen rato y le ibas a joder la vida a todo aquel que quisiera llamar en tu casa –hasta que te desconectaban el cable y te reconectaban al mundo real-. He aquí el mítico e inolvidable sonido que nos brindaba tanta felicidad: </p>
 <br>
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gsNaR6FRuO0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/gsNaR6FRuO0" frameborder="0" allowfullscreen></iframe></p><br>
 
 <h3>Páginas Web ¿En verdad esto era el clímax en la Red de Redes? </h3>
 
@@ -52,7 +52,7 @@ date: 2015-02-18T23:54:13-06:00
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B01.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B01.jpg" /></a>
 </figure>
-<p>¡Afortunadamente hoy en día existen las herramientas necesarias para hacer cosas menos feas! </p>  
+<p>¡Afortunadamente hoy en día existen las herramientas necesarias para hacer cosas menos feas! </p><br>  
 
 <h3>Solitario, buscaminas y Paint; básico entre lo básico</h3>
 
@@ -60,26 +60,26 @@ date: 2015-02-18T23:54:13-06:00
 
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B02.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B02.jpg" /></a>
-</figure>
+</figure><br>
 
 <h3>Age of Empires: El enviciante arte de la estrategia</h3>
 
-<p>Mario Bros marcó una época con Nintendo, Zelda y Pokemon en Game Boy, otros como Fantasy y FIFA en PlayStation comenzaron la escalada del mundo de las consolas. Pero el juego de PC que marco el antes y el después definitivamente fue Age of Empires desde su primer entrega en 1997, como olvidar su expansión The Rise of Rome y aquellos sacerdotes que te convertían a su religión con su famoso “Wololo”.</p> 
+<p>Mario Bros marcó una época con Nintendo, así como Zelda y Pokemon en Game Boy mientras otros como Final Fantasy y FIFA en PlayStation comenzaron la escalada en el mundo de las consolas. Pero el juego de PC que marco el antes y el después definitivamente fue Age of Empires desde su primer entrega en 1997, como olvidar su expansión <i>The Rise of Rome</i> y aquellos sacerdotes que te convertían a su religión con su famoso “Wololo”.</p> 
 <p>Sin saberlo te volvías un estratega, líder, trabajabas en equipo (multijugador online), conocías la importancia de administrar cada recurso, de pensar a corto y largo plazo, de saber cuándo ser agresivo y cuando ser defensivo ¿Entonces para que ir a la Escuela de Negocios?</p>
-<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con Age of Empires II: The Conquerors como el mejor de toda la serie.</p>
-<p>¿Alguien quiere retomar el viejo vicio aunque sea por par de ocasiones?</p>
+<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con <i><b>Age of Empires II: The Conquerors</i></b> como el mejor de toda la serie.</p>
+<p>¿Alguien que quiera retomar el viejo vicio aunque sea por par de partidas?</p>
 <br>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/R2b9gTBSM-s" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/R2b9gTBSM-s" frameborder="0" allowfullscreen></iframe></p><br>
 
 <h3>¿No iTunes, no Spotify? No problem! </h3>
 
-<p>Antes de que toda la música del universo cupiera en tu iPod o dispositivo móvil hubo tiempos donde los llamados programas P2P fueron la solución para los amantes de la música. Un paraíso digital para aquellos dispuestos a devorar cantidades inmensas de sonidos y almacenar decenas de gigabytes en archivos con formato MP3 principalmente. <b>Ares, Limewire, KazaA</b> son nombres de algunos de los programas más significativos donde podíamos encontrar nuestras canciones y videos favoritos, donde de vez en cuando encontrabas alguna reliquia como pudo ser una versión en vivo, acústica o un demo y todo esto sin tener que pagar un solo centavo como buenos piratas.</p><p>Existe la teoría de que discos y canciones solían disfrutarse más porque tardaban años en descargarse, sin duda la recompensa de esperar pacientemente y rogar que no se cayera la conexión.</p>
+<p>Antes de que toda la música del universo cupiera en tu iPod o dispositivo móvil hubo tiempos donde los llamados programas P2P fueron la solución para los amantes de la música. Un paraíso digital para aquellos dispuestos a devorar cantidades inmensas de sonidos y almacenar decenas de gigabytes en archivos con formato MP3 principalmente. </p><p><b>Ares, Limewire, KazaA</b> son nombres de algunos de los programas más significativos donde podíamos encontrar nuestras canciones y videos favoritos, donde de vez en cuando encontrabas alguna reliquia como pudo ser una versión en vivo, acústica o un demo y todo esto sin tener que pagar un solo centavo como buenos piratas.</p><p>Existe la teoría de que discos y canciones solían disfrutarse más porque tardaban años en descargarse, sin duda la recompensa de esperar pacientemente y rogar que no se cayera la conexión.</p>
 
 <p>¿Mencioné que algunos tenían interesantes salones de Chat? ¡Ah sí! Y eventualmente se te descargaba uno que otro virus de contrabando.</p>
 
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B03.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B03.jpg" /></a>
-</figure>
+</figure><br>
 
 <h3>MSN Messenger, la definición perfecta de una época dorada.</h3>
 
@@ -107,7 +107,7 @@ date: 2015-02-18T23:54:13-06:00
 <p>Si tuvieramos que seguir nombrando programas y sitios Web este post se haría eterno incluso me viene a la mente la Enciclopedia Encarta la cual fuera la fuente número uno del <i>copy-paste</i> de tareas antes del auge de Wikipedia y que decir de los estilos de WordArt que no podían faltar en los trabajos escolares. Lo cierto es que hoy en día la denominada Generación Z, la que ha nacido con lo último en tecnología y conectividad nunca entenderá aquellos tiempos donde lo simple era deslumbrante y asombroso, donde nos maravillábamos por descubrir cosas nuevas sin toda esa recopilación de información que hace parecer que el Internet sabe “mágicamente” que es lo que te gusta y que es lo que quieres ver.</p>
 <p>Dejemos el pasado en el pasado que la tecnología no aguarda por nadie y más vale seguir con ella al día. Veremos que sigue después de esta generación de Redes Sociales, veremos cuáles son las nuevas formas de interacción y las nuevas adicciones cibernéticas. Espero hayan tenido algunas gratas memorias de esos tiempos que hoy parecen distantes y ficticios. Nos vemos en el próximo post! </p>
 
-<h3><b>¿Y tú en que parte del Internet creciste?</b></h3>
+<h4><b>¿Y tú en que parte del Internet creciste?</b></h4>
 
 <iframe src="//giphy.com/embed/anjRJ4nv9WJzO" width="480" height="480" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-<i>Netscape, el primer navegador que estuvo en guerra con Internet Explorer</i>
+<i>Netscape, el primer navegador que estuvo en guerra con Internet Explorer.</i>
