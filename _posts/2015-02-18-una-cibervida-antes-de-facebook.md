@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "Una Cibervida Antes De Facebook"
+title: "Una Cibervida antes De Facebook"
 modified:
-categories: 
+categories: es
 excerpt:
+comments: true
+share: true
 tags: []
 image:
-  feature:
+  feature: GodGame.jpg
 date: 2015-02-18T23:54:13-06:00
 ---
 
+Prueba
