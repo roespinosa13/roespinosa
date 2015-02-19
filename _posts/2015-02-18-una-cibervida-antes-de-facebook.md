@@ -3,7 +3,7 @@ layout: post
 title: "Una Cibervida Antes De Facebook"
 modified:
 categories: es
-excerpt: Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fue el Internet hace más de una decada.
+excerpt: ¿Recuerdas como era el Internet? ¿Cuáles eran tus Sitios Web y programas favoritos? Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fueron ciertas partes de nuestra vida en la Red de redes hace algunos años.
 comments: true
 share: true
 tags: []
@@ -12,12 +12,11 @@ image:
   thumb: GodGame.jpg
 date: 2015-02-18T23:54:13-06:00
 ---
-
 <blockquote>
 <p>«Llega un tiempo en el que hay que elegir entre la contemplación y la acción; eso se llama hacerse un hombre.»<br>Albert Camus.</p>
 </blockquote>
 
-<p>Recientemente en un centro comercial escuché el siguiente dialogo entre un padre y su hijo de aproximadamente 7-8 años, ambos con <i>smartphones</i> sentados en una banca. El dialogo fue el siguiente: </p>
+<p>Recientemente en un centro comercial escuché el siguiente dialogo entre un padre y su hijo de aproximadamente 7-8 años, ambos con <i>smartphones</i> sentados en una banca. La conversación fue la siguiente: </p>
 <br>
 <i>—Papá ¿Ya viste lo que te puse en Facebook? <br>
 —No, pero ya deja de llenar mi Face de tantas cosas. <br>
