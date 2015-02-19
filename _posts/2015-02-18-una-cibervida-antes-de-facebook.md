@@ -27,30 +27,33 @@ date: 2015-02-18T23:54:13-06:00
 <br>
 <p>Entonces me di cuenta que el padre intentaba convencer al hijo pero no sabía cómo encontrar las palabras adecuadas para demostrarle que aquella época con programas sumamente básicos marcó a toda una generación que experimentaba primitivas formas de interacción digital.</p>
 
-<p>De ahí comenzó una lluvia de recuerdos de hace algunos años. Es que hoy en día aplicaciones y sitios como Facebook, Twitter, Instagram, WhatsApp, Snapchat entre otros están más que incrustados en nuestra vida cotidiana y pareciera que siempre han estado ahí. Sin embargo, la obvia realidad es que no siempre fue así y aunque a muchos pequeños de tiempos modernos les parezca irreal hubo otra <i>cibervida</i> y fue muy buena. </p>
+<p>De ahí comenzó una lluvia de recuerdos de hace algunos años y es que hoy en día aplicaciones y sitios como Facebook, Twitter, Instagram, WhatsApp, Snapchat entre otros están más que incrustados en nuestra vida diaria y pareciera que siempre han estado ahí. Sin embargo, la obvia realidad es que no siempre fue así y aunque a muchos pequeños de tiempos modernos les parezca irreal hubo otra <i>cibervida</i> y fue muy buena. </p>
 
 <p>Niños, pubertos, adolescentes y adultos de los 90’s vivimos el boom de la comercialización y la expansión del Internet. Sistemas operativos como Windows 95, Windows 98, Mac OS 7, Mac OS 8 entre otros permitieron el uso doméstico a gran escala gracias a sus innovadoras interfaces gráficas sin mencionar que eran de fácil uso para todos aquellos que no tenían un acercamiento con el mundo tecnológico.</p>
 
 <p>Si fuiste de aquella época este post es para ti y seguro recordaras algunas de las siguientes cosas que marcaron nuestras noches frente al monitor. </p>
 
-<h3>Dial up modem: El sonido de la felicidad</h3>
+<h3>Dial-up Modem: El sonido de la felicidad</h3>
 
-<p>56 kbit/s eran la potencia de aquellos días. Cómo olvidar ese sonido que significaba que la línea de teléfono iba a estar ocupada por un buen rato y le ibas a joder la vida a todo aquel que quisiera llamar en tu casa –hasta que te desconectaban el cable y te reconectaban al mundo real-. He aquí el mítico sonido que nos brindaba tanta felicidad: </p>
+<p>56 kbit/s llegaron a ser la máxima potencia de aquellos días y cada intento de conexión se te cargaba como una llamada a tu recibo. Cómo olvidar ese sonido que significaba que la línea de teléfono iba a estar ocupada por un buen rato y le ibas a joder la vida a todo aquel que quisiera llamar en tu casa –hasta que te desconectaban el cable y te reconectaban al mundo real-. He aquí el mítico e inolvidable sonido que nos brindaba tanta felicidad: </p>
+<br>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/gsNaR6FRuO0" frameborder="0" allowfullscreen></iframe></p>
 
-<h3>Páginas Web ¿En verdad esto era el clímax del Internet? </h3>
+<h3>Páginas Web ¿En verdad esto era el clímax en la Red de Redes? </h3>
 
 <p>Cuenta la leyenda que los buenos diseñadores Web hacían sus creaciones como los viejos alquimistas bajo el más pulcro y riguroso proceso. Por ese camino largo que lleva a un trabajo excepcional que es causa de admiración y envidia a la vez, cuentan esos mitos que aquellos magos de la informática usaban un lienzo con apariencia de Notepad (Bloc de Notas) y toda clase de ingredientes de un lenguaje ancestral de llamado HTML.</p>
 
-<iframe src="//giphy.com/embed/Lk9J9DznVhRjG" width="480" height="355" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//giphy.com/embed/Lk9J9DznVhRjG" width="480" height="355" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
 
 <p>Hace más de una década las páginas estaban llenas de gifs animados, contadores de visitas, imágenes con pobre resolución, alguno que otro sonido raro de baja calidad y colores muy llamativos. Ni hablar, era lo que había –muy lejos del actual Responsive Web Design- y era algo excepcional ya que lo que al final importaba era el contenido. Solo para tener una idea, acorde con el sitio Geocitiesizer este blog se hubiera visto así en 1996 hecho por cualquier adolescente de la época: </p>
 
 <figure>
-<img src="/images/B01.jpeg">
+<img src="/images/B01.jpg">
 </figure>
-
+<figure>
+	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B01.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B01.jpg" /></a>
+</figure>
 <p>Afortunadamente hoy en día existen las herramientas necesarias para hacer de mejor calidad. </p>  
 
 <h3>Solitario, buscaminas y Paint; básico entre lo básico</h3>
