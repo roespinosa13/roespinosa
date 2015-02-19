@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Una Cibervida antes De Facebook"
+title: "Una Cibervida Antes De Facebook"
 modified:
 categories: es
 excerpt: Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fue el Internet hace más de una decada.
