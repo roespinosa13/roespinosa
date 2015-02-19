@@ -66,7 +66,7 @@ date: 2015-02-18T23:54:13-06:00
 
 <p>Mario Bros marcó una época con Nintendo, Zelda y Pokemon en Game Boy, otros como Fantasy y FIFA en PlayStation comenzaron la escalada del mundo de las consolas. Pero el juego de PC que marco el antes y el después definitivamente fue Age of Empires desde su primer entrega en 1997, como olvidar su expansión The Rise of Rome y aquellos sacerdotes que te convertían a su religión con su famoso “Wololo”.</p> 
 <p>Sin saberlo te volvías un estratega, líder, trabajabas en equipo (multijugador online), conocías la importancia de administrar cada recurso, de pensar a corto y largo plazo, de saber cuándo ser agresivo y cuando ser defensivo ¿Entonces para que ir a la Escuela de Negocios?</p>
-<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con Age of Empires II: The Conquerors como el mejor de toda la serie.</p><br>
+<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con Age of Empires II: The Conquerors como el mejor de toda la serie.</p>
 <p>¿Alguien quiere retomar el viejo vicio aunque sea por par de ocasiones?</p>
 <br>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/R2b9gTBSM-s" frameborder="0" allowfullscreen></iframe></p>
@@ -88,11 +88,11 @@ date: 2015-02-18T23:54:13-06:00
 
 <p>Y es que concuerdo con muchas opiniones, lo que hacía tan bueno este programa de mensajería era el nivel de interacción tan directa entre los usuarios, es decir ¡En verdad platicabas y conocías a las personas! En cambio ahora puedes tener 3,859 amigos en Facebook, 15,411 seguidores en Twitter y otros 8,000 en Instagram pero siendo sinceros ¿A cuántos de ellos crees conocer aunque sea un poquito? Ahí entran muchos estudios de comportamientos actuales en las Redes Sociales como la adicción al narcisismo, egoísmos y frustraciones o la creación de falsas imágenes del individuo, pero eso es otro tema del cual hay mucha tela que cortar.</p>
 
-<p>Retomando al extinto MSN Messenger si se quieren poner un poco nostálgicos echen un ojo a esta cuenta en Twitter <a href=" https://twitter.com/msnmesenger " target="_blank">@MSNmessenger</a> seguro se identifican con algunas cosas. Y de paso les dejo estos links: </p> 
-
 <figure>
-	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B05.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B05.jpg" /></a>
+	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/b05.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/b05.jpg" /></a>
 </figure>
+
+<p>Retomando al extinto MSN Messenger si se quieren poner un poco nostálgicos echen un ojo a esta cuenta en Twitter <a href=" https://twitter.com/msnmesenger " target="_blank">@MSNmessenger</a> seguro se identifican con algunas cosas y de paso les dejo estos links: </p> 
 
 <h3><a href="http://www.buzzfeed.com/robinedds/15-things-msn-messenger-taught-you-about-relationships#.iaRwozlZZ" target="_blank">15 Things MSN Messenger Taught You About Relationships </a></h3>
 
@@ -107,7 +107,7 @@ date: 2015-02-18T23:54:13-06:00
 <p>Si tuvieramos que seguir nombrando programas y sitios Web este post se haría eterno incluso me viene a la mente la Enciclopedia Encarta la cual fuera la fuente número uno del <i>copy-paste</i> de tareas antes del auge de Wikipedia y que decir de los estilos de WordArt que no podían faltar en los trabajos escolares. Lo cierto es que hoy en día la denominada Generación Z, la que ha nacido con lo último en tecnología y conectividad nunca entenderá aquellos tiempos donde lo simple era deslumbrante y asombroso, donde nos maravillábamos por descubrir cosas nuevas sin toda esa recopilación de información que hace parecer que el Internet sabe “mágicamente” que es lo que te gusta y que es lo que quieres ver.</p>
 <p>Dejemos el pasado en el pasado que la tecnología no aguarda por nadie y más vale seguir con ella al día. Veremos que sigue después de esta generación de Redes Sociales, veremos cuáles son las nuevas formas de interacción y las nuevas adicciones cibernéticas. Espero hayan tenido algunas gratas memorias de esos tiempos que hoy parecen distantes y ficticios. Nos vemos en el próximo post! </p>
 
-<p><b>¿Y tú en que parte del Internet creciste?</b></p>
+<h3><b>¿Y tú en que parte del Internet creciste?</b></h3>
 
 <iframe src="//giphy.com/embed/anjRJ4nv9WJzO" width="480" height="480" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<i>Netscape, el primer navegador que estuvo en guerra con Internet Explorer</i>
