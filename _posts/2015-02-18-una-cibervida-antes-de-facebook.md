@@ -54,9 +54,9 @@ date: 2015-02-18T23:54:13-06:00
 </figure>
 <p>¡Afortunadamente hoy en día existen las herramientas necesarias para hacer cosas menos feas! </p><br>  
 
-<h3>Solitario, buscaminas y Paint; básico entre lo básico</h3>
+<h3>Solitario, Buscaminas y Paint; básico entre lo básico</h3>
 
-<p>Cuando tenías una computadora nueva sin Internet, te lo cortaban o utilizabas una computadora ajena –también sin Internet- estos eran tus mejores amigos no lo puedes negar. Y es que cómo olvidar el imposible y tedioso Buscaminas o el Solitario y su épico final, Carta Blanca y Pinball completaban el set. Que decir de Paint donde todos fuimos auténticos Leonardos creando personajes y paisajes pensando a la vez que éramos artistas de la talla del legendario Bob Ross, cuanta inocencia.</p> 
+<p>Cuando tenías una computadora nueva sin Internet, te lo cortaban o utilizabas una computadora ajena –también sin Internet- estos eran tus mejores amigos no lo puedes negar. Y es que cómo olvidar el imposible y tedioso Buscaminas o el Solitario con su épico final, y claro Carta Blanca y Pinball completaban el set. Que decir de Paint donde todos fuimos auténticos Leonardos creando nuestros primeros personajes y paisajes en una pantalla pensando a la vez que éramos artistas de la talla del legendario Bob Ross, cuanta inocencia.</p> 
 
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B02.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/B02.jpg" /></a>
@@ -66,7 +66,7 @@ date: 2015-02-18T23:54:13-06:00
 
 <p>Mario Bros marcó una época con Nintendo, así como Zelda y Pokemon en Game Boy mientras otros como Final Fantasy y FIFA en PlayStation comenzaron la escalada en el mundo de las consolas. Pero el juego de PC que marco el antes y el después definitivamente fue Age of Empires desde su primer entrega en 1997, como olvidar su expansión <i>The Rise of Rome</i> y aquellos sacerdotes que te convertían a su religión con su famoso “Wololo”.</p> 
 <p>Sin saberlo te volvías un estratega, líder, trabajabas en equipo (multijugador online), conocías la importancia de administrar cada recurso, de pensar a corto y largo plazo, de saber cuándo ser agresivo y cuando ser defensivo ¿Entonces para que ir a la Escuela de Negocios?</p>
-<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con <i><b>Age of Empires II: The Conquerors</i></b> como el mejor de toda la serie.</p>
+<p>Sin duda lo que volvió único a AOE fue su popularidad, la temática de las civilizaciones y la competitividad a nivel mundial de los jugadores y es que si tuviste la suerte de jugar con algún clan en el extinto sitio MSN Gaming Zone sabrás a lo que me refiero. No cabe duda que fue un gran legado de Microsoft Games y Ensemble Studios, y en mi caso me quedo con <i><b>Age of Empires II: The Conquerors</b></i> como el mejor de toda la serie.</p>
 <p>¿Alguien que quiera retomar el viejo vicio aunque sea por par de partidas?</p>
 <br>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/R2b9gTBSM-s" frameborder="0" allowfullscreen></iframe></p><br>
