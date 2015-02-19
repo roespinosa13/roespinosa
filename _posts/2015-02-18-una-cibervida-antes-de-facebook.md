@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Una Cibervida Antes De Facebook"
+title: "Una Cibervida antes de Facebook"
 modified:
 categories: es
 excerpt: ¿Recuerdas como era el Internet? ¿Tus sitios web y programas favoritos? Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fue la Red de redes hace algunos años.
