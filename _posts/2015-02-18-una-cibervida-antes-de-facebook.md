@@ -9,7 +9,12 @@ share: true
 tags: []
 image:
   feature: GodGame.jpg
+  thumb: GodGame.jpg
 date: 2015-02-18T23:54:13-06:00
 ---
 
 Prueba
+
+Bla bla
+
+bla ba
