@@ -3,7 +3,7 @@ layout: post
 title: "Una Cibervida antes De Facebook"
 modified:
 categories: es
-excerpt:
+excerpt: Una conversación entre un padre y un hijo trae viejos recuerdos de lo que fue el Internet hace más de una decada.
 comments: true
 share: true
 tags: []
