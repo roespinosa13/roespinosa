@@ -108,5 +108,5 @@ date: 2015-02-18T23:54:13-06:00
 
 <h4><b>¿Y tú en que parte del Internet creciste?</b></h4>
 
-<iframe src="//giphy.com/embed/anjRJ4nv9WJzO" width="480" height="480" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//giphy.com/embed/anjRJ4nv9WJzO" width="300" height="300" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <i>Netscape, el primer navegador que estuvo en guerra con Internet Explorer.</i>
