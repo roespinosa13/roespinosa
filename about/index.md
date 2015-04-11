@@ -33,5 +33,5 @@ image:
 </blockquote>
 
 <figure>
-	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/AztecasF4.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/AztecasF4.jpg" /></a>
+	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/aztecas2013.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/aztecas2013.jpg" /></a>
 </figure><br>
