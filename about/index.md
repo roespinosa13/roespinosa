@@ -26,7 +26,7 @@ image:
 
 <p>Bought a .net domain, made a <a href="https://github.com/" target="_blank">Github</a> account and adopted a space in the Internet to turn it in a repository full of thoughts. Has form of Blog. Information Technologies, Business and Society in general are the recurrent topics here. Although any vague reflection or experience could be published, so the reader has been warned.</p><br>
 
-<p>Faithful and energetic participant in an interesting project –under construction- called Mexico. Wandering in the limbo of the idealistic I firmly believe in the possibility of improving considerably the unpromising direction of this country, of this amazing jewel of the world. Education, Information and Knowledge will be the bridges to get there.</p><br>
+<p>Faithful and energetic participant in an interesting project –under construction- called Mexico. Wandering in the limbo of the idealistic I firmly believe in the possibility of improving considerably the unpromising direction of this country, of this amazing jewel of the world. Education, Information and Knowledge will be the bridges to get there.</p>
 
 <blockquote>
   <p>«Every single day, in every walk of life, ordinary people do extraordinary things»<br>Jim Valvano</p>
