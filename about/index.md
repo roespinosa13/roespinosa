@@ -28,3 +28,10 @@ image:
 
 <p>Faithful and energetic participant in an interesting project –under construction- called Mexico. Wandering in the limbo of the idealistic I firmly believe in the possibility of improving considerably the unpromising direction of this country, of this amazing jewel of the world. Education, Information and Knowledge will be the bridges to get there.</p><br>
 
+<blockquote>
+  <p>«Every single day, in every walk of life, ordinary people do extraordinary things»<br>Jim Valvano</p>
+</blockquote>
+
+<figure>
+	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/AztecasF4.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/AztecasF4.jpg" /></a>
+</figure><br>
