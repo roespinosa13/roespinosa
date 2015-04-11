@@ -4,7 +4,7 @@ title: Acerca de mi
 modified: 2014-07-31T15:01:46.840000-04:00
 image:
   feature: huichol_art.jpg
-  credit: Huichol Art
+  credit: Huichol Mexican Art
 
 ---
 
