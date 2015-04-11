@@ -6,7 +6,7 @@ date:
 modified:
 tags: []
 image:
-  feature: re13_text2.jpg
-  credit: walls.sf site
+  feature: booksbackground.jpg
+  credit: Joel Hunter
 ---
 
