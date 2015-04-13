@@ -6,7 +6,7 @@ date:
 modified:
 tags: []
 image:
-  feature: booksbackground.jpg
+  feature: Jhunter_books.jpg
   credit: Joel Hunter
 ---
 
