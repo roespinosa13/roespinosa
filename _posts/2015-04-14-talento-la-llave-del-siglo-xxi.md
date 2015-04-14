@@ -9,7 +9,7 @@ share: true
 tags: []
 image:
   feature: talent_wanted.jpg
-  thumb: talent_wanted.jpg
+  thumb: JimValvano.jpg
 date: 2015-04-14T01:00:02-05:00
 ---
 
