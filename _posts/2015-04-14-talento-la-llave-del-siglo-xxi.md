@@ -4,6 +4,8 @@ title: "Talento, La Llave Del Siglo XXI"
 modified:
 categories: es
 excerpt: ¿Para que soy bueno? En algun momento de reflexión o depresión nos hemos hecho esa pregunta. 
+comments: true
+share: true
 tags: []
 image:
   feature: talent_wanted.jpg
