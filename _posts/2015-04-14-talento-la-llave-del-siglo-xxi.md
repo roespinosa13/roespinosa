@@ -44,7 +44,7 @@ date: 2015-04-14T01:00:02-05:00
 <h3>Diversidad y curiosidad; el perfecto detonador</h3>
 
 <p>¿En que soy bueno? Seguramente en algún momento de reflexión –o depresión- te has hecho esta pregunta. No te alarmes, es una de tantas preguntas existenciales que el individuo se ha formulado durante miles de años. A diferencia de otras preguntas de este tipo que parecen no tener una respuesta certera es posible encontrar al menos una satisfactoria para ésta. Entonces te repites con ansiedad ¿Para que soy bueno? Te puedo decir que solo hay una cosa que te ayudara a responderte: <b>¡Atrevimiento! </b></p>
-<p>Hay una diferencia abismal entre el soñar y el accionar, es por eso que no concuerdo con aquellos pseudo-positivistas que dicen que debemos ser soñadores todo el tiempo pues un soñador la mayoría de las veces no vale nada si no lleva el pensamiento a los actos, si nunca da el primer paso sin temores –curiosamente eso pasa más de lo que debería- y entonces ¿Cómo saber si eres el próximo Van Gogh? Si nunca has tomado un lápiz o un pincel y lo mismo pasa para cualquier actividad. Nunca se sabe si vas a ser uno de los mejores jugadores de póker, el ganador de un trofeo Vince Lombardi, un conductor de Fórmula 1, la siguiente Nadia Comăneci, un George Lucas o Steven Spielberg, un Gabriel García Márquez, un Nikola Tesla o una Marie Curie. Es simple, nunca te atreves nunca sabrás. </p>
+<p>Hay una diferencia abismal entre el soñar y el accionar, es por eso que no concuerdo con aquellos pseudo-positivistas que dicen que debemos ser soñadores todo el tiempo pues un soñador la mayoría de las veces no vale nada si no lleva el pensamiento a los actos, si nunca da el primer paso sin temores –curiosamente eso pasa más de lo que debería- y entonces ¿Cómo saber si eres el próximo Van Gogh? Si nunca has tomado un lápiz o un pincel y lo mismo pasa para cualquier actividad. Nunca se sabe si vas a ser uno de los mejores jugadores de póker o League of Legends, el ganador de un trofeo Vince Lombardi, un conductor de Fórmula-1 o la siguiente Nadia Comăneci, un George Lucas o Steven Spielberg, un Gabriel García Márquez o Albert Camus, un Nikola Tesla o una Marie Curie. Es simple, nunca te atreves nunca sabrás. </p>
 <p>Existen un sinfín de actividades que explorar por lo que no es necesario enfocarse en querer ser bueno en algo que es muy competido o solo porque es muy popular ya que la diversidad puede ser infinita y hay miles de profesiones, hobbies y actividades que requieren que alguien las lleve al siguiente nivel, y ese alguien, ese detonador podríamos ser nosotros sin saberlo.</p>
 
 <figure>
@@ -67,10 +67,10 @@ date: 2015-04-14T01:00:02-05:00
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/EPwQbQekk38" frameborder="0" allowfullscreen></iframe></p><br> 
 
 <p>Y tú ¿Tienes el talento suficiente para afrontar este siglo XXI? </p><br>
-Te agradezco haber leído un post más, hasta la próxima! <br>
+Te agradezco haber leído un post más, hasta la próxima!<br>
 <div><a href="" class="btn btn-success">English version soon!</a></div><br>
 
-<p><i>Also, you can use this Google Translate tool:</i></p><br>
+<p><i>Also, you can use this Google Translate tool:</i></p>
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
@@ -84,5 +84,5 @@ function googleTranslateElementInit() {
 
 
 <figure>
-	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg" /></a>
+	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg"/></a>
 </figure>
