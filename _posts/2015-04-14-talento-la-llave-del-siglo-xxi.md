@@ -13,7 +13,7 @@ image:
 date: 2015-04-14T01:00:02-05:00
 ---
 
-<p>De manera equivoca se cree que el éxito es la palabra de oro, el Santo Grial de la felicidad y sin embargo es algo bastante turbio ya que se puede tener éxito sin tener algún talento de provecho, se puede tener éxito sin tener moral y sin virtudes, se puede fingir una vida de éxitos y logros siendo un político o empresario amante de la corrupción basta mirar ciertas personalidades falsamente respetadas en la elite mexicana y mundial. La obsesión con esta palabra puede causar presión e inestabilidad en el individuo. (leer post: Presiones Sociales, derrumbe del joven) </p><br>
+<p>De manera equivoca se cree que el éxito es la palabra de oro, el Santo Grial de la felicidad y sin embargo es algo bastante turbio ya que se puede tener éxito sin tener algún talento de provecho, se puede tener éxito sin tener moral y sin virtudes, se puede fingir una vida de éxitos y logros siendo un político o empresario amante de la corrupción basta mirar ciertas personalidades falsamente respetadas en la elite mexicana y mundial. La obsesión con esta palabra puede causar presión e inestabilidad en el individuo. (leer post: <b><a href="http://roespinosa.net/es/presiones-sociales-derrumbe-del-joven/" target="_blank">Presiones Sociales, derrumbe del joven</a></b>) </p><br>
 
 <p>El talento por otra parte es el puente más limpio para <b>lograr metas</b> realmente trascendentales. </p><br>
 <p>Los efectos de la globalización siguen sorprendiendo a propios y extraños. Hoy en día existe una creciente batalla denominada Guerra del Talento. Compañías e instituciones de todo el orbe están constantemente implementado metodologías cada vez más complejas para encontrar a los mejores candidatos para cubrir sus necesidades ya sean con profesionistas, estudiantes y demás. Es decir, allá afuera hay toda una enorme maquinaria de la que no tienes idea que está buscando gente con tus cualidades –o en su defecto aquellos que son mejores que tú-. Tan emocionante como escalofriante ¿Cierto? </p>
@@ -67,16 +67,18 @@ date: 2015-04-14T01:00:02-05:00
 <p>Y tú ¿Tienes el talento suficiente para afrontar este siglo XXI? </p><br>
 Te agradezco haber leído un post más, hasta la próxima! <br>
 <div><a href="" class="btn btn-success">English version soon!</a></div><br>
-
+Also, you can use this Google Translate tool: 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'de,en,fr,it,nl,pt', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true, gaTrack: true, gaId: 'UA-56919414-1'}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,fr,it,nl,pt', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true, gaTrack: true, gaId: 'UA-56919414-1'}, 'google_translate_element');
 }
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><br>
 
 --------------------------------------------------------------------------------------<br>
 <h3>#FearTheGreen</h3>
-<p>Hablando de talento y trabajo duro los invito a ver y apoyar hoy martes a las 8.30 PM hora centro de México a los <b>Aztecas Basketball</b> en la semifinal nacional vs Tec Monterrey ¡El Campeonato regresará a casa! </p>Transmisión por <a href="http://www.udlap.mx/tvudlap-conectando-ideas/">TVUDLAP</a>. <br> 
+<p>Hablando de talento y trabajo duro los invito a ver y apoyar hoy martes a las 8.30 PM hora centro de México a los <b><a href="https://www.facebook.com/AztecasBasketball" target="_blank">Aztecas Basketball UDLAP</a></b> en la semifinal nacional vs Tec Monterrey ¡El Campeonato regresará a casa! </p>Transmisión por <a href="http://www.udlap.mx/tvudlap-conectando-ideas/">TVUDLAP</a>. <br> 
+
+
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/UDLAP_8grandes.jpg" /></a>
 </figure>
