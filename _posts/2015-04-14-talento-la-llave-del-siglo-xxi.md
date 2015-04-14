@@ -45,20 +45,20 @@ date: 2015-04-14T01:00:02-05:00
 
 <p>¿En que soy bueno? Seguramente en algún momento de reflexión –o depresión- te has hecho esta pregunta. No te alarmes, es una de tantas preguntas existenciales que el individuo se ha formulado durante miles de años. A diferencia de otras preguntas de este tipo que parecen no tener una respuesta certera es posible encontrar al menos una satisfactoria para ésta. Entonces te repites con ansiedad ¿Para que soy bueno? Te puedo decir que solo hay una cosa que te ayudara a responderte: <b>¡Atrevimiento! </b></p>
 <p>Hay una diferencia abismal entre el soñar y el accionar, es por eso que no concuerdo con aquellos pseudo-positivistas que dicen que debemos ser soñadores todo el tiempo pues un soñador la mayoría de las veces no vale nada si no lleva el pensamiento a los actos, si nunca da el primer paso sin temores –curiosamente eso pasa más de lo que debería- y entonces ¿Cómo saber si eres el próximo Van Gogh? Si nunca has tomado un lápiz o un pincel y lo mismo pasa para cualquier actividad. Nunca se sabe si vas a ser uno de los mejores jugadores de póker o League of Legends, el ganador de un trofeo Vince Lombardi, un conductor de Fórmula-1 o la siguiente Nadia Comăneci, un George Lucas o Steven Spielberg, un Gabriel García Márquez o Albert Camus, un Nikola Tesla o una Marie Curie. Es simple, nunca te atreves nunca sabrás. </p>
-<p>Existen un sinfín de actividades que explorar por lo que no es necesario enfocarse en querer ser bueno en algo que es muy competido o solo porque es muy popular ya que la diversidad puede ser infinita y hay miles de profesiones, hobbies y actividades que requieren que alguien las lleve al siguiente nivel, y ese alguien, ese detonador podríamos ser nosotros sin saberlo.</p>
+<p>Existen un sinfín de actividades que explorar por lo que no es necesario enfocarse en querer ser bueno en algo que es muy competido o solo porque es muy popular ya que la diversidad puede ser infinita y hay miles de profesiones, hobbies, negocios y actividades que requieren que alguien las lleve al siguiente nivel, y ese alguien, ese detonador podríamos ser nosotros sin saberlo.</p>
 
 <figure>
 	<a href="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/JimValvano.jpg"><img src="https://raw.githubusercontent.com/roespinosa13/roespinosa13/gh-pages/images/JimValvano.jpg" /></a>
 </figure>
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/G5yWJ1_wv5E" frameborder="0" allowfullscreen></iframe></p><br> 
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/G5yWJ1_wv5E" frameborder="0" allowfullscreen></iframe></p>
 <p><i>*Te recomiendo ver en Youtube su speech "Don't give up, don't ever give up" y el 30X30 de ESPN, toda una lección de vida.</i></p><br>
 
 <h3>El talento nunca será suficiente / Hard Work Pays Off</h3>
 
 <p>El talento a pesar de ser un concepto abstracto comparte características similares a las de nuestros músculos y cerebro; si no lo ejercitas irremediablemente se <b>atrofia</b>. </p>
 
-<p>Ya se comentó que existen escuelas para uno u otro camino. Algunos tienen la fortuna de lograr cosas con mayor facilidad sin previo entrenamiento. Sin embargo, este talento natural no podrá ser suficiente jamás para lograr cosas extraordinarias y otros factores como la inteligencia emocional, la empatía, la voluntad, la pasión, los hábitos, los valores, la visión, la constancia entre muchos otros más conforman y acompañan al individuo en su camino a la cima y el descuidar alguna de estas áreas puede ser la diferencia entre ser bueno y ser grandioso. </p><br>
+<p>Ya se comentó que existen escuelas para uno u otro camino. Algunos tienen la fortuna de lograr cosas con mayor facilidad sin previo entrenamiento. Sin embargo, este talento natural no podrá ser suficiente jamás para lograr cosas extraordinarias y otros factores como la inteligencia emocional, la empatía, la voluntad, la pasión, los hábitos, los valores, la visión, la constancia entre muchos otros más conforman y acompañan al individuo en su camino a la cima y el descuidar alguna de estas áreas puede ser la diferencia entre ser bueno y ser excepcional. </p><br>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qCNTg_8Nf-U" frameborder="0" allowfullscreen></iframe></p><br> 
 
@@ -66,7 +66,7 @@ date: 2015-04-14T01:00:02-05:00
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/EPwQbQekk38" frameborder="0" allowfullscreen></iframe></p><br> 
 
-<p>Y tú ¿Tienes el talento suficiente para afrontar este siglo XXI? </p><br>
+<p><b>Y tú ¿Tienes el talento suficiente para afrontar este siglo XXI? </b></p><br>
 Te agradezco haber leído un post más, hasta la próxima!<br>
 <div><a href="" class="btn btn-success">English version soon!</a></div><br>
 
@@ -80,7 +80,7 @@ function googleTranslateElementInit() {
 
 --------------------------------------------------------------------------------------<br>
 <h3>#FearTheGreen</h3>
-<p>Hablando de talento y trabajo duro los invito a ver y apoyar hoy martes a las 8.30 PM hora centro de México a los <b><a href="https://www.facebook.com/AztecasBasketball" target="_blank">Aztecas Basketball UDLAP</a></b> en la semifinal nacional vs Tec Monterrey ¡El Campeonato regresará a casa! </p>Transmisión por <a href="http://www.udlap.mx/tvudlap-conectando-ideas/">TVUDLAP</a>. <br> 
+<p>Hablando de talento y trabajo duro los invito a ver y apoyar hoy martes a las 8.30 PM hora centro de México a los <b><a href="https://www.facebook.com/AztecasBasketball" target="_blank">Aztecas Basketball UDLAP</a></b> en la semifinal nacional vs Tec Monterrey ¡El Campeonato regresará a casa! </p>Transmisión por <a href="http://www.udlap.mx/tvudlap-conectando-ideas/" target="_blank">TVUDLAP</a>.<br> 
 
 
 <figure>
