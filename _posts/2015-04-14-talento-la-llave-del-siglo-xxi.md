@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Talento, La Llave Del Siglo XXI"
+title: "Talento, la Llave del Siglo XXI"
 modified:
 categories: es
-excerpt: ¿Para que soy bueno? En algun momento de reflexión o depresión nos hemos hecho esa pregunta. 
+excerpt: ¿Para que soy bueno? En algun momento de reflexión o depresión nos hemos hecho esa pregunta. El talento es el puente a lograr las metas más trascendentales.
 comments: true
 share: true
 tags: []
 image:
   feature: talent_wanted.jpg
-  thumb: JimValvano.jpg
+  thumb: talent_wanted.jpg
 date: 2015-04-14T01:00:02-05:00
 ---
 
 <p>De manera equivoca se cree que el éxito es la palabra de oro, el Santo Grial de la felicidad y sin embargo es algo bastante turbio ya que se puede tener éxito sin tener algún talento de provecho, se puede tener éxito sin tener moral y sin virtudes, se puede fingir una vida de éxitos y logros siendo un político o empresario amante de la corrupción basta mirar ciertas personalidades falsamente respetadas en la elite mexicana y mundial. La obsesión con esta palabra puede causar presión e inestabilidad en el individuo. (leer post: <b><a href="http://roespinosa.net/es/presiones-sociales-derrumbe-del-joven/" target="_blank">Presiones Sociales, derrumbe del joven</a></b>) </p><br>
 
 <p>El talento por otra parte es el puente más limpio para <b>lograr metas</b> realmente trascendentales. </p><br>
-<p>Los efectos de la globalización siguen sorprendiendo a propios y extraños. Hoy en día existe una creciente batalla denominada Guerra del Talento. Compañías e instituciones de todo el orbe están constantemente implementado metodologías cada vez más complejas para encontrar a los mejores candidatos para cubrir sus necesidades ya sean con profesionistas, estudiantes y demás. Es decir, allá afuera hay toda una enorme maquinaria de la que no tienes idea que está buscando gente con tus cualidades –o en su defecto aquellos que son mejores que tú-. Tan emocionante como escalofriante ¿Cierto? </p>
+<p>Los efectos de la globalización siguen sorprendiendo a propios y extraños. Hoy en día existe una creciente batalla denominada <b>Guerra del Talento</b>. Compañías e instituciones de todo el orbe están constantemente implementado metodologías cada vez más complejas para encontrar a los mejores candidatos para cubrir sus necesidades ya sean con profesionistas, estudiantes y demás. Es decir, allá afuera hay toda una enorme maquinaria de la que no tienes idea que está buscando gente con tus cualidades –o en su defecto aquellos que son mejores que tú-. Tan emocionante como escalofriante ¿Cierto? </p>
 
 <blockquote>
 <p>«Google is more focused on hiring for talent rather than focusing on specific skill sets. </p>
@@ -52,22 +52,26 @@ date: 2015-04-14T01:00:02-05:00
 </figure>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/G5yWJ1_wv5E" frameborder="0" allowfullscreen></iframe></p><br> 
+<p><i>*Te recomiendo ver en Youtube su speech "Don't give up, don't ever give up" y el 30X30 de ESPN, toda una lección de vida.</i></p><br>
 
 <h3>El talento nunca será suficiente / Hard Work Pays Off</h3>
 
 <p>El talento a pesar de ser un concepto abstracto comparte características similares a las de nuestros músculos y cerebro; si no lo ejercitas irremediablemente se <b>atrofia</b>. </p>
 
-<p>Ya se comentó que existen escuelas para uno u otro camino. Algunos tienen la fortuna de lograr cosas con mayor facilidad sin previo entrenamiento. Sin embargo, este talento natural no podrá ser suficiente jamás para lograr cosas extraordinarias y otros factores como la inteligencia emocional, la empatía, la voluntad, la pasión, los hábitos, los valores, la visión, la constancia entre muchos otros más conforman y acompañan al individuo en su camino a la cima y el descuidar alguna de estas áreas puede ser la diferencia entre ser bueno y ser grandioso. </p>
+<p>Ya se comentó que existen escuelas para uno u otro camino. Algunos tienen la fortuna de lograr cosas con mayor facilidad sin previo entrenamiento. Sin embargo, este talento natural no podrá ser suficiente jamás para lograr cosas extraordinarias y otros factores como la inteligencia emocional, la empatía, la voluntad, la pasión, los hábitos, los valores, la visión, la constancia entre muchos otros más conforman y acompañan al individuo en su camino a la cima y el descuidar alguna de estas áreas puede ser la diferencia entre ser bueno y ser grandioso. </p><br>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qCNTg_8Nf-U" frameborder="0" allowfullscreen></iframe></p><br> 
-<p>En resumen, el talento de la mano del tiempo y el trabajo duro siempre será apremiado y aunque la mayoría de las veces no se llega a la cima esperada es de sabios darse cuenta que la gran dicha se obtuvo en el camino y no en la meta. Si existe una cualidad que te separa de los demás –sea cual sea- no hay mejor decisión que cultivarla con recelo y hacer de ella un arte y una disciplina, aquello que te ayude y te llene en todo aspecto cotidiano y para con los demás. </p> 
+
+<p>En resumen, el talento de la mano del tiempo y el trabajo duro siempre será apremiado y aunque la mayoría de las veces no se llega a la cima esperada es de sabios darse cuenta que la gran dicha se obtuvo en el camino y no en la meta. Si existe una cualidad que te separa de los demás –sea cual sea- no hay mejor decisión que cultivarla con recelo y hacer de ella un arte y una disciplina, aquello que te ayude y te llene en todo aspecto cotidiano y para con los demás. </p><br> 
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/EPwQbQekk38" frameborder="0" allowfullscreen></iframe></p><br> 
 
 <p>Y tú ¿Tienes el talento suficiente para afrontar este siglo XXI? </p><br>
 Te agradezco haber leído un post más, hasta la próxima! <br>
 <div><a href="" class="btn btn-success">English version soon!</a></div><br>
-Also, you can use this Google Translate tool: 
+
+<p><i>Also, you can use this Google Translate tool:</i></p><br>
+
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,fr,it,nl,pt', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true, gaTrack: true, gaId: 'UA-56919414-1'}, 'google_translate_element');
