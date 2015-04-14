@@ -3,7 +3,7 @@ layout: post
 title: "Talento, la Llave del Siglo XXI"
 modified:
 categories: es
-excerpt: ¿Para que soy bueno? En algun momento de reflexión o depresión nos hemos hecho esa pregunta. El talento es el puente a lograr las metas más trascendentales.
+excerpt: ¿Para que soy bueno? En algun momento de reflexión -o depresión- nos hemos hecho esa pregunta. El talento es el puente para lograr las metas más trascendentales.
 comments: true
 share: true
 tags: []
