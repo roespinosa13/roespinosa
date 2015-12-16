@@ -1,5 +1,9 @@
 ---
-<p><img alt="" src="http://postimg.org/image/xkb5dvy95/" /></p>
-
+-layout: home
+-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+-tags: [Jekyll, theme, responsive, blog, template]
+-image:
+-  feature: WaveCover.jpg
+-  credit: 
 ---
 
