@@ -10,7 +10,7 @@ url:              http://roespinosa.co
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
-ass:
+sass:
   sass_dir: _sass
   style: compressed
 gems:
