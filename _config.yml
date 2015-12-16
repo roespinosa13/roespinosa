@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Roespinosa.co
+title:            RoEspinosa.co
 locale:           en_US
 url:              http://roespinosa.co
 
@@ -26,29 +26,29 @@ kramdown:
 # Site owner
 owner:
   name: Roberto Espinosa
- avatar: bio-re13.png
- bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
+  avatar: bio-re13.png
+  bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
   email: Gmail
- disqus-shortname: roespinosanet
- twitter: roespinosa13
- facebook: 
+  disqus-shortname: roespinosanet
+  twitter: roespinosa13
+  facebook: 
   google:
    plus: 
    analytics: UA-56919414-1
    verify: 
-  ad-client: 
+   ad-client: 
     ad-slot: 
  bing-verify: 
  github: 
  stackoverflow:
  linkedin: LinkedIn
-  instagram: 
+ instagram: 
  lastfm:
-  tumblr:
-  pinterest:
+ tumblr:
+ pinterest:
  foursquare:
-  steam:
-  dribbble:
+ steam:
+ dribbble:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
