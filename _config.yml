@@ -7,52 +7,51 @@ url:              http://roespinosa.co
 
 # Jekyll configuration
 
--permalink:   /:categories/:title/
--markdown:    kramdown
--highlighter: pygments
--sass:
--  sass_dir: _sass
--  style: compressed
--gems:
--  - jekyll-sitemap
--
--kramdown:
--  auto_ids: true
--  footnote_nr: 1
--  entity_output: as_char
--  toc_levels: 1..6
--  use_coderay: false
--
--
--# Site owner
--owner:
--  name: Roberto Espinosa
--  avatar: bio-re13.png
--  bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
--  email: Gmail
--  disqus-shortname: roespinosanet
--  twitter: roespinosa13
--  facebook: 
--  google:
--    plus: 
--    analytics: UA-56919414-1
--    verify: 
--    ad-client: 
--    ad-slot: 
--  bing-verify: 
--  github: 
--  stackoverflow:
--  linkedin: LinkedIn
--  instagram: 
--  lastfm:
--  tumblr:
--  pinterest:
--  foursquare:
--  steam:
--  dribbble:
--
--include: [".htaccess"]
--exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+ass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Roberto Espinosa
+ avatar: bio-re13.png
+ bio: "Information Technologies & Business for Human Development. <br> Ex-Aztecas Basketball #UDLAP.<br> Exploring the Blog-side of the Internet."
+  email: Gmail
+ disqus-shortname: roespinosanet
+ twitter: roespinosa13
+ facebook: 
+  google:
+   plus: 
+   analytics: UA-56919414-1
+   verify: 
+  ad-client: 
+    ad-slot: 
+ bing-verify: 
+ github: 
+ stackoverflow:
+ linkedin: LinkedIn
+  instagram: 
+ lastfm:
+  tumblr:
+  pinterest:
+ foursquare:
+  steam:
+  dribbble:
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 
 
